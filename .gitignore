@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.mp4
+*.png
+*.raw
+logs/*
+!logs/.gitkeep
+Genesis/
